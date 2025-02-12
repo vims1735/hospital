@@ -3,3 +3,4 @@
 3 no. of units - 110
 ICU
 scan
+MRI
