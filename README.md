@@ -5,3 +5,4 @@ ICU
 scan
 MRI
 XRAY
+scan
