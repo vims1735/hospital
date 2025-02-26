@@ -3,7 +3,7 @@
 3 no. of units - 10
 ICU
 scan
-MRI
+
 XRAY
 scan
 surgeon
