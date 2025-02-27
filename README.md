@@ -4,6 +4,6 @@
 ICU
 scan
 
-XRAY
+
 scan
 surgeon
